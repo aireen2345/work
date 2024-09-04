@@ -1,0 +1,198 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color:  rgba(230, 157, 12, 0.904);
+}
+.wrapper{
+    padding: 10px;
+    overflow: hidden;
+    width: 90%;
+    background-color: rgba(230, 157, 12, 0.904);
+    margin: 0% auto;
+}
+.logo{
+    float: left;
+    width: 10%;
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+    float: right;
+}
+.menu a {
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin: 0px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Row{}
+.Row h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}   
+.Row h3{
+    color:rgba(230, 157, 12, 0.904);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 0%;
+}
+p {
+    display: block;
+    margin-block-start: 1%;
+    margin-block-end: 1%;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.Row p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+.B_img{
+    width: 40%;
+    margin: 0px auto;
+    overflow: hidden;
+    
+}
+.B_img img{
+    width: 60%;
+    
+    
+}
+/*Banner end*/
+/*success start*/
+.success{
+    padding-top: 40px;
+    overflow: hidden;
+    width: 90%;
+    margin: 0px auto;
+}
+.right{
+    margin-left: 0px;
+    float: right;
+    width: 48%;
+}
+.right h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(77, 35, 102);
+}
+.left{
+    float: left;
+    width: 48%;
+   
+}
+.left h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(230, 157, 12, 0.904);
+    margin: 0;
+    text-align: center;
+}
+.left p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-align: right;
+}
+/*success end*/
+/* card start*/
+.card{
+    width: 90%;
+    margin: 0px auto;
+    overflow: hidden;
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+.card1{
+    margin: 0px 10px;
+    width: 28%;
+    float: left;
+    padding: 20px;
+    background-color:rgb(77, 35, 102);
+}
+.card1 img{
+    width:100% ; 
+}
+.card1 p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.card1 h2{
+    color: rgba(230, 157, 12, 0.904);
+}
+.card2{
+    margin: 0px 10px;
+    width: 28%;
+    float: left;
+    padding: 20px;
+    background-color: rgb(77, 35, 102);
+}
+.card2 img{
+    width: 100%;
+}
+.card2 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.card2 h2{
+    color:rgba(230, 157, 12, 0.904);
+}
+.card3{
+    margin: 0px 10px;
+    width: 28%;
+    float: left;
+    padding: 20px;
+    background-color: rgb(77, 35, 102);;
+}
+.card3 img{
+    width: 100%;
+}
+.card3 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.card3 h2{
+    color:rgba(230, 157, 12, 0.904);
+}
+/* card end*/
+/*footer start*/
+footer{
+    margin:30px 0px;
+}
+footer  h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(20, 20, 20);
+    text-align: center;
+}
+footer h1 span{
+    color:rgba(230, 157, 12, 0.904);
+}
+/*footer end*/
